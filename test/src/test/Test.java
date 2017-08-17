@@ -21,7 +21,7 @@ public class Test {
 		
 
 		System.out.println("가가가");
-
+		System.out.println("나나나");
 	}
 
 }
