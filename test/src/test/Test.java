@@ -14,10 +14,14 @@ public class Test {
 		
 		System.out.println("ㅇㅇㅈㅈ");
 		
+
 		System.out.println("ㅇㅇ");
 
 		
 		
+
+		System.out.println("가가가");
+
 	}
 
 }
