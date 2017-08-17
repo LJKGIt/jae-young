@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("야호");
+		System.out.println("재피영자!");
 	}
 
 }
