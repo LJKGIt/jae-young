@@ -7,6 +7,11 @@ public class Test {
 
 		System.out.println("야호");
 		System.out.println("재피영자!");
+
+		System.out.println("�빞�샇");
+		
+		System.out.println("ㄹㄹㄹ");
+
 	}
 
 }
