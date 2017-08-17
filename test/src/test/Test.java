@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("�빞�샇");
 		
 		System.out.println("ㄹㄹㄹ");
+		
+		System.out.println("ㅇㅇㅈㅈ");
 
 	}
 
